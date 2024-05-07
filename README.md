@@ -1,4 +1,4 @@
-**A Web Application to answer queries for a given image in Medical Domain using Transformer based model. **
+## A Web Application to answer queries for a given image in Medical Domain using Transformer based model. 
 
 
 
